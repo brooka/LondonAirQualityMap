@@ -1,0 +1,51 @@
+h6 {
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 11px;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+}
+.retroshadow {
+    color: #2c2c2c;
+    letter-spacing: 0.05em;
+    text-shadow: 1px 1px 0px #d5d5d5, 1px 2px 0px rgba(0, 0, 0, 0.2);
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    text-rendering: optimizeLegibility;
+}
+
+.legend-font {
+    color: #2c2c2c;
+    letter-spacing: 0.05em;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    text-rendering: optimizeLegibility;
+}
+
+.legend td, tr {
+    padding: 0 !important;
+    max-height: 10px !important;
+    padding:0; margin:0;
+
+}
+
+.legend {
+    padding:0; margin:0;
+
+    border-collapse: collapse;
+
+}
+
+table {
+    border-spacing: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+td {
+    border-spacing: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+tr {
+    border-spacing: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}

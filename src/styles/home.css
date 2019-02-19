@@ -1,0 +1,47 @@
+html, body{
+    background: #f7f7f7 !important;
+}
+
+.home-background {
+    width: 100vw;
+    height: 60px;
+    background-color: #427d9a;
+    position: relative;
+}
+.particle-container {
+    width: 1000px;
+    height: 120px;
+    background-color: #4dcef7;
+    position: relative;
+}
+
+.circle {
+    margin-top: 10%;
+    margin-left: 80%;
+    border-radius: 50%;
+}
+
+.index-circle {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 0 2px;
+    border: 2px solid #427d9a ;
+}
+.square, .circle {
+    pointer-events: none;
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    background-color: crimson;
+    font-size: 12px;
+}
+
+#lineDrawing .lines path {
+    fill: #427d9a;
+}
+
+.leaflet-control-container {
+    display: none;
+}

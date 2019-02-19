@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+@media screen and (min-width: 0px) and (max-width: 600px) {
+  .titleName { display: none; }  /* show it on small screens */
+}
+
+#euTable tr td {
+   border-top: 0px solid rgba(34,36,38,.1);
+ }
