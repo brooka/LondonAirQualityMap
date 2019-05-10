@@ -47,6 +47,7 @@ const PosterLabel = ({text}) => (
     </div>
 );
 
+const days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 
 
 const Footer = () => (
@@ -97,10 +98,16 @@ class Homepage extends Component {
     render() {
         let {pollutant, orientation, latitude, longitude, campusInfo, showLegend, pollutionValues, showEULimits, loading} = this.state;
         const orientationSettings = displayOptions[orientation];
+        const now = new Date();
+        var hours = now.getHours() - 1;
 
+        var ampm = hours >= 12 ? 'pm' : 'am';
+        hours = hours % 12;
+        hours = hours ? hours : 12; // the hour '0'
+        const previousHourDateTime = ` @ ${hours}:00${ampm} on ${days[ now.getDay()]} ${now.getDate()}th`;
         return (
             <div>
-                <AnimationHome label="King's Campus Pollution"/>
+                <AnimationHome label={"King's Campus Pollution" + previousHourDateTime}/>
                 <Grid doubling textAlign="center" style={{paddingTop: '20px'}}>
                     <Grid.Row>
                         <Grid.Column computer={6} mobile={14} tablet={5}>

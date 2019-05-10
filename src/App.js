@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import HomepageLayout from './pages/Homepage';
+import HomepageLayout from './pages/KingsCampusPollution';
 class App extends Component {
 
     render() {

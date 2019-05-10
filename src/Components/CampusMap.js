@@ -100,7 +100,7 @@ class LeafletMap extends React.Component {
 
         const position = [latitude, longitude];
         return (
-            <div className="map-poster" style={{height: mapSize.height, width: mapSize.width}}>
+            <div className="map-poster" style={{height: 1920, width: 1080}}>
                 <div id='inner-poster'>
 
                     <Loader active={loading} />
