@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74b302c7-9792-45d4-a31b-6be267c5b91a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AnimationGrid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AnimationHome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CampusMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CampusTable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/GisLayers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GisLayers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/GisMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/InfoOverlays.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LimitValueInformation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/LeafletMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LeafletMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/PollutantLegend.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PollutantLegend.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/track.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/track1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/documentation.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/documentation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/home.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/home3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/house.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/house2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/kcl-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Homepage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/KingsCampusPollution.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/particles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/particles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/ExternalConfigRetrieval.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/Http.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Http.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/PollutionLocationService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/PollutionLocationService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/PostcodeService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/PostcodeService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/SpeciesIndexColorSettings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/SpeciesIndexColorSettings.js" afterDir="false" />
-    </list>
+    <list default="true" id="74b302c7-9792-45d4-a31b-6be267c5b91a" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -367,7 +330,7 @@
       <workItem from="1625059600010" duration="205000" />
       <workItem from="1625060809306" duration="3198000" />
       <workItem from="1625131145363" duration="13507000" />
-      <workItem from="1625240771278" duration="1726000" />
+      <workItem from="1625240771278" duration="2101000" />
     </task>
     <servers />
   </component>
