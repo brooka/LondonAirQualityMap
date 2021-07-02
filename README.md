@@ -1,7 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-Air Quality Poster Maker
+## Air Quality Poster Maker
 
 Build with ReactJs, Leaflet, Semantic UI
 
@@ -13,6 +10,8 @@ View and query the GIS layers generated from 2016 the London Atmospheric Emissio
 
 View demo  [here](https://www.londonair.org.uk/map-maker/) 
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
