@@ -1,49 +1,15 @@
 import {httpFetch} from "./Http";
 
+const POSTCODE_IO_URL = `//api.postcodes.io/postcodes`;
+
 export const getLocationForPostcode = (postcode) => {
-    return new Promise(function (resolve, reject) {
-        let protocol = 'http:';
-        if (window.location.protocol === 'https:') {
-            protocol = 'https:';
-        }
-        httpFetch(protocol + '//api.postcodes.io/postcodes/' + postcode)
-            .then(function (response) {
-                resolve(response);
-            })
-            .catch(function (error) {
-                reject(error);
-            });
-    })
+    return httpFetch(`${POSTCODE_IO_URL}/${postcode}`);
 };
 
 export const getPostcodeForLocation = (lat, lng) => {
-    return new Promise(function (resolve, reject) {
-        let protocol = 'http:';
-        if (window.location.protocol === 'https:') {
-            protocol = 'https:';
-        }
-        httpFetch(`${protocol}//api.postcodes.io/postcodes?lon=${lng}&lat=${lat}`)
-            .then(function (response) {
-                resolve(response);
-            })
-            .catch(function (error) {
-                reject(error);
-            });
-    })
+    return httpFetch(`//${POSTCODE_IO_URL}?lon=${lng}&lat=${lat}`);
 };
 
 export const validatePostcode = (postcode) => {
-    return new Promise(function (resolve, reject) {
-        let protocol = 'http:';
-        if (window.location.protocol === 'https:') {
-            protocol = 'https:';
-        }
-        httpFetch(`${protocol}//api.postcodes.io/postcodes/${postcode}/validate`)
-            .then(function (response) {
-                resolve(response);
-            })
-            .catch(function (error) {
-                reject(error);
-            });
-    })
+    return httpFetch(`//${POSTCODE_IO_URL}/${postcode}/validate`);
 };

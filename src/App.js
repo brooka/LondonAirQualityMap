@@ -1,14 +1,10 @@
-import React, {Component} from 'react';
-import HomepageLayout from './pages/KingsCampusPollution';
+import React, { Component } from 'react';
+import Home from './pages/Home';
 class App extends Component {
-
     render() {
         return (
-            <div>
-                <HomepageLayout />
-            </div>
+            <Home />
         );
     }
 }
-
 export default App;

@@ -2,85 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74b302c7-9792-45d4-a31b-6be267c5b91a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Components/CampusMap.js" afterPath="$PROJECT_DIR$/src/Components/CampusMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/KingsCampusPollution.js" afterPath="$PROJECT_DIR$/src/pages/KingsCampusPollution.js" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AnimationGrid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AnimationHome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/CampusMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/CampusTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/GisLayers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GisLayers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/GisMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/InfoOverlays.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LimitValueInformation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/LeafletMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LeafletMap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PollutantLegend.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PollutantLegend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/track.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/track1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/documentation.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/documentation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/home3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/house.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/house2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/kcl-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Homepage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/KingsCampusPollution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/particles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/particles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/ExternalConfigRetrieval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Http.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/PollutionLocationService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/PollutionLocationService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/PostcodeService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/PostcodeService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/SpeciesIndexColorSettings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/SpeciesIndexColorSettings.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Homepage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Homepage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="374" column="37" lean-forward="true" selection-start-line="374" selection-start-column="37" selection-end-line="374" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CampusTable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/CampusTable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-249">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KingsCampusPollution.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/KingsCampusPollution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="987">
-              <caret line="149" column="43" lean-forward="true" selection-start-line="149" selection-start-column="43" selection-end-line="149" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CampusMap.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Components/CampusMap.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-              <folding>
-                <marker date="1554476589802" expanded="true" signature="1138:1144" ph="©" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://W:/inetpub/wwwroot/londonair.org.uk/kcl-pollution/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,6 +93,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -190,6 +160,7 @@
     <option name="width" value="1938" />
     <option name="height" value="882" />
   </component>
+  <component name="ProjectId" id="1ufWD88ypEzKHAvqbO15oDJFGe9" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -250,14 +221,24 @@
       <pane id="Scratches" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="W:/inetpub/wwwroot/pc146-56.erg.kcl.ac.uk" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="C:\Users\k1623013\mprojects\animation\node_modules\eslint" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -266,18 +247,9 @@
       <recent name="C:\Users\k1623013\mprojects\animation\public" />
       <recent name="C:\Users\k1623013\mprojects\animation\src\images" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abrook\Projects\annual-map-poster\src\styles" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -319,12 +291,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -338,10 +304,14 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="74b302c7-9792-45d4-a31b-6be267c5b91a" name="Default" comment="" />
@@ -393,6 +363,11 @@
       <workItem from="1550484820514" duration="10617000" />
       <workItem from="1552904273582" duration="1273000" />
       <workItem from="1554476117998" duration="487000" />
+      <workItem from="1625057003948" duration="1603000" />
+      <workItem from="1625059600010" duration="205000" />
+      <workItem from="1625060809306" duration="3198000" />
+      <workItem from="1625131145363" duration="13507000" />
+      <workItem from="1625240771278" duration="1726000" />
     </task>
     <servers />
   </component>
@@ -450,26 +425,30 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/pages/Homepage.js</url>
-          <line>330</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/pages/KingsCampusPollution.js</url>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/pages/Home.js</url>
+          <line>236</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build/precache-manifest.a13a4568dfe7c0b631a3907698c3957c.js" />

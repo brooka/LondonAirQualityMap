@@ -5,5 +5,5 @@ export const httpFetch = (url) => {
 };
 
 export const httpFetchWithHeader = (url) => {
-    return axios(url, {headers: { "Content-Type": "application/xml" }});
+    return axios(url, {headers: {"Content-Type": "application/xml"}});
 };

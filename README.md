@@ -1,6 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Air Quality Poster Maker
+
+Build with ReactJs, Leaflet, Semantic UI
+
+View and query the GIS layers generated from 2016 the London Atmospheric Emissions Inventory (LAEI) 
+- Search by postcode
+- Select pollutant (NO2, PM10, PM2.5)
+- Compare with EU limit values
+- Export selected location to PNG
+
+View demo  [here](https://www.londonair.org.uk/map-maker/) 
 
 In the project directory, you can run:
 
