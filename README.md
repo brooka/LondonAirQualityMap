@@ -1,6 +1,6 @@
 ## Air Quality Poster Maker
 
-Build with ReactJs, Leaflet, Semantic UI
+Built with ReactJs, Leaflet, Semantic UI
 
 View and query the GIS layers generated from 2016 the London Atmospheric Emissions Inventory (LAEI) 
 - Search by postcode
